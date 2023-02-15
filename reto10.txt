@@ -1,0 +1,3 @@
+Instrucciones del ejercicio: 
+
+Se debe calcular el área de un triángulo rectángulo. Para ello se necesita saber cuál es la medida de la base y la medida de la altura.

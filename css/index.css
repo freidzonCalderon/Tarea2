@@ -1,0 +1,13 @@
+.galeriaImg {
+	text-align: center;
+}
+.galeriaImg img {
+	height: 200px;
+	width: auto;
+	object-fit: cover;
+	margin: 10px;
+}
+.galeriaImg img:hover {
+	cursor: pointer;
+}
+

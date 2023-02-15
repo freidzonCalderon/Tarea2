@@ -1,0 +1,38 @@
+i {
+    font-size: 20px;
+    color: #fff;
+    margin-right: 10px;
+}
+
+
+button {
+    border: none;
+    margin-left: 10px;
+    padding: 12px 22px;
+    border-radius: 100px;
+    color: #fff;
+	background-color: #434444;
+}
+
+
+th {
+    font-size: 18px;
+    color: #ffffff;
+}
+
+input {
+    font-size: 20px;
+}
+
+input:hover {
+    background-color: #e4e4e4;
+    border: 2px solid #434444;
+}
+
+label {
+    color: #434444;
+    font-size: 20px;
+    font-weight: bold;
+    width: 250px;
+    margin-right: 10px;
+}
